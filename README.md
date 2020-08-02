@@ -25,7 +25,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installation
 
 ```bash
-sudo apt install poppler-utils
+sudo apt install poppler-utils or brew install poppler
 git clone https://github.com/HHousen/docsum.git
 cd docsum
 conda env create --file environment.yml
